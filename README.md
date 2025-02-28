@@ -1,4 +1,4 @@
-# Superstore Sales
+# Superstore Sales Analysis
 
 ## Overview
 This project involves data exploration, cleaning, and analysis of a Superstore Sales dataset using MySQL. The goal is to extract insights, categorize customers using RFM segmentation, and perform exploratory data analysis (EDA) to improve business decision-making.
