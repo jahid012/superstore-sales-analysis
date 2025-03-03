@@ -27,5 +27,8 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 - Customer purchase behavior analysis.
 - Business recommendations for sales growth.
  
+## 📊Visual Insights:
 
-[<img src="images/database_structure.png">](https://link-to-your-URL/)
+[<img src="images/row_count.png">]
+[<img src="images/Sales_Analysis.png">]
+[<img src="images/rfm_segmentation.png">]
