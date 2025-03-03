@@ -12,10 +12,10 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 
 ## Files
 📁 Superstore-Sales-Analysis  
-- `Superstore_data.sql`
-- `Data_cleaning.sql`      
-- `RFM_segmentation.sql`
-- `Exploratory_analysis.sql`
+- `Superstore_Sales_Data.xlsx`
+- `IMPORT_EXPLORE_AND_CLEAN_DATA.sql`      
+- `RFM_SEGMENTATION.sql`
+- `EXPLANATORY_DATA_ANALYSIS.sql`
 
 📂 Data  
 - `Superstore_Sales_Data.csv`    
@@ -28,3 +28,4 @@ This project involves data exploration, cleaning, and analysis of a Superstore S
 - Business recommendations for sales growth.
  
 
+[<img src="images/database_structure.png">](https://link-to-your-URL/)
